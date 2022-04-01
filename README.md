@@ -15,9 +15,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 ![JPscioli GitHub stats](https://github-readme-stats.vercel.app/api?username=JPscioli&show_icons=true&theme=gruvbox&count_private=true)
-
 ## ⚙️ &nbsp;Emblemas Oracle
-![Oracle](https://user-images.githubusercontent.com/45456833/158027563-e71fec9f-aea6-41e2-8a34-41bd702c74a1.png)
+![Oracle](https://user-images.githubusercontent.com/45456833/158027563-e71fec9f-aea6-41e2-8a34-41bd702c74a1.png)![Oracle mySQL](https://user-images.githubusercontent.com/45456833/161347138-a8369042-fcf4-4516-bc67-e824bc41c755.png)
+
 ## 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
