@@ -12,6 +12,8 @@
 
 - ✔️ Na caminhada para o **FullStack & JavaSênior**
 
+- Git com Projetos, Estudos e Dicas. [![GitHub](https://img.shields.io/website?label=joaoscioli&style=for-the-badge&url=https://github.com/joaoscioli/)](https://github.com/joaoscioli) 
+
 
 ## ⚙️ &nbsp;GitHub Analytics
 ![JPscioli GitHub stats](https://github-readme-stats.vercel.app/api?username=JPscioli&show_icons=true&theme=gruvbox&count_private=true)
